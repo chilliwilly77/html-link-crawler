@@ -1,6 +1,6 @@
 {
   "name": "html-link-crawler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Implements https://github.com/simplecrawler to get all html links within the domain",
   "main": "index.js",
   "scripts": {
